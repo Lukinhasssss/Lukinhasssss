@@ -24,3 +24,9 @@ acoustic guitar 🎸 and watch animes.
   <img align="center" alt="Git" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">&nbsp;&nbsp;
   <img align="center" alt="Heroku" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg">
 </div>
+
+##
+  
+<div>
+  <a href="https://www.linkedin.com/in/dev-lucasmonteiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
