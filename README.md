@@ -1,5 +1,7 @@
 ## Hi!!! My name's Lucas Monteiro 👋
 
+![](https://komarev.com/ghpvc/?username=Lukinhasssss&color=blueviolet)
+
 - 👨‍💻 I'm looking for my first opportunity as a developer.
 - 💙 Interests: Java, Spring Boot, HTML, CSS, Typescript, React, Flutter, Python.
 - 🌱 I’m currently learning Java, Spring Boot, React and Typescript.
@@ -7,7 +9,7 @@
 acoustic guitar 🎸 and watch animes.
 
 <div>
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/Lukinhasssss">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lukinhasssss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukinhasssss&layout=compact&langs_count=8&theme=dracula"/>
 <div>
