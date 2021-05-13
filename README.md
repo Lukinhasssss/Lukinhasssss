@@ -1,4 +1,4 @@
-## Hi!!! My name's Lucas Oliveira 👋
+## Hi!!! My name's Lucas Monteiro 👋
 
 ![](https://komarev.com/ghpvc/?username=Lukinhasssss&color=blueviolet)
 
