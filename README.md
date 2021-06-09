@@ -2,12 +2,6 @@
 
 ![](https://komarev.com/ghpvc/?username=Lukinhasssss&color=blueviolet)
 
-- 👨‍💻 I'm looking for my first opportunity as a developer.
-- 💙 Interests: Java, Spring Boot, HTML, CSS, Typescript, React, Flutter, Python.
-- 🌱 I’m currently learning Java, Spring Boot, React, Typescript and tests.
-- :video_game: My hobbies: I like to play multiplayer games like Destiny and Monster Hunter, I also like to play
-acoustic guitar 🎸 and watch animes.
-
 <div>
   <a href="https://github.com/Lukinhasssss">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lukinhasssss&show_icons=true&theme=dracula&include_all_commits=false&count_private=false"/>
